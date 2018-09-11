@@ -61,6 +61,7 @@ def dennis_ritchies_language
      }
  #    	binding.pry
 lang = programmer_hash[:dennis_ritchie][:languages].flatten
+lang
 end
 
 def adding_matz
